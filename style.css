@@ -247,6 +247,7 @@ h2 {
     position: relative;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
 }
 
 .hero-2:hover {
@@ -260,7 +261,7 @@ h2 {
 }
 
 .hero-2 img {
-    width: 65%;
+    width: 45%;
     max-width: 330px;
     border-radius: 20px;
     object-fit: cover;
